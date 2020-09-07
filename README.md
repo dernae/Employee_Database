@@ -19,17 +19,20 @@ Module_7
       employees retiring from these fields are 29,415, 28,255, 14,221 and 12,242 respectively. 
   
  FROM DELIVERABLE 2
-  - The employees wholes birthdates are between 1965-01-01 and 1965-12-31 are eligible for mentorship. 
+ 
+  - The employees whose birthdates are between 1965-01-01 and 1965-12-31 are eligible for mentorship. 
   According to the analysis, 1,940 employees qualify for the mentorship program.
   
 # Summary
 
  Question 1:How many roles will need to be filled as the "silver tsunami" begins to make a impact? 
+ 
     - There are 6 categories of employees that will retire:  Senior Engineer, Senior Staff, Engineer, Staff, Techique 
         Leader, Assistant Engineer and Manager. In total 90,308 roles will need to be filled; 29,415, 28,255, 14,221,
           12,242, 4502, 1,761 and 2 employees respective of the titles mentioned above. 
           
 Question 2 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
     - There are 1,940 qualified, retirement-ready employees at this company. There aren't nearly enough of these employees
         needed to mentor the 90,308 roles that will be needed to fill. I recommend expanded the age limitation of the employees that 
           would be qualified by 5 years. 
