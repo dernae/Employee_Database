@@ -12,7 +12,7 @@ Module_7
 
  FROM DELIVERABLE 1
  
-  - The number of employees eligibile for a retirement package is 90,308.
+  - The number of employees eligible for a retirement package is 90,308.
   - The individuals retiring will leave Senior Engineer, Senior Staff, Engineer, Staff, Techique Leader, Assistant
       Engineer and Manager positions vacant. 
   - The Senior Engineer, Senior Staff, Engineer and Staff positions are the most imperative to fill. The number of
