@@ -34,5 +34,5 @@ Module_7
 Question 2 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
     - There are 1,940 qualified, retirement-ready employees at this company. There aren't nearly enough of these employees
-        needed to mentor the 90,308 roles that will be needed to fill. I recommend expanded the age limitation of the employees that 
-          would be qualified by 5 years. 
+        needed to mentor the 90,308 roles that will be needed to fill. I recommend expanding the age limitation of the employees that 
+          would be qualified, by 5 years. 
