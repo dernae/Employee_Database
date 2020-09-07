@@ -3,10 +3,10 @@ Module_7
 
 # Overview
 
- The purpose of this analysis is to help a large company to determine which employees are eligible for a retirement package,
+ The purpose of this analysis is to help a large company to determine which employees are eligible for a retirement package and
  which positions will need to be filled in the near future. To do so, a list of all the employees eligible for retirement 
  was generated. In addition, the company that formerly used Excel and VBA for these types of analysis, was interested 
- in switching to SQL and the entire analysis is done in that language with visualizations done in ERD.
+ in switching to SQL. The entire analysis is done in that language with visualizations done in ERD.
  
 # Results
 
